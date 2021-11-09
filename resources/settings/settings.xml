@@ -16,6 +16,8 @@
 			<listEntry value="6">@Strings.ShowInfoGrade</listEntry>
 			<listEntry value="9">@Strings.ShowInfoAmbientPressure</listEntry>
 			
+			<listEntry value="12">@Strings.ShowInfoElapsedTime</listEntry>
+			<listEntry value="13">@Strings.ShowInfoTimer</listEntry>
 			<listEntry value="10">@Strings.ShowInfoTimeOfDay</listEntry>
 			<listEntry value="18">@Strings.ShowInfoTestfield</listEntry>								
         </settingConfig>
@@ -36,7 +38,9 @@
 			<listEntry value="5">@Strings.ShowInfoAltitude</listEntry>
 			<listEntry value="6">@Strings.ShowInfoGrade</listEntry>
 			<listEntry value="9">@Strings.ShowInfoAmbientPressure</listEntry>
-			
+
+			<listEntry value="12">@Strings.ShowInfoElapsedTime</listEntry>
+			<listEntry value="13">@Strings.ShowInfoTimer</listEntry>
 			<listEntry value="10">@Strings.ShowInfoTimeOfDay</listEntry>
 			<listEntry value="18">@Strings.ShowInfoTestfield</listEntry>							
         </settingConfig>
@@ -58,6 +62,8 @@
 			<listEntry value="6">@Strings.ShowInfoGrade</listEntry>
 			<listEntry value="9">@Strings.ShowInfoAmbientPressure</listEntry>
 			
+			<listEntry value="12">@Strings.ShowInfoElapsedTime</listEntry>
+			<listEntry value="13">@Strings.ShowInfoTimer</listEntry>
 			<listEntry value="10">@Strings.ShowInfoTimeOfDay</listEntry>
 			<listEntry value="18">@Strings.ShowInfoTestfield</listEntry>						
         </settingConfig>
@@ -79,6 +85,8 @@
 			<listEntry value="6">@Strings.ShowInfoGrade</listEntry>
 			<listEntry value="9">@Strings.ShowInfoAmbientPressure</listEntry>
 			
+			<listEntry value="12">@Strings.ShowInfoElapsedTime</listEntry>
+			<listEntry value="13">@Strings.ShowInfoTimer</listEntry>
 			<listEntry value="10">@Strings.ShowInfoTimeOfDay</listEntry>
 			<listEntry value="18">@Strings.ShowInfoTestfield</listEntry>							
         </settingConfig>
@@ -143,7 +151,9 @@
 			<listEntry value="5">@Strings.ShowInfoAltitude</listEntry>
 			<listEntry value="6">@Strings.ShowInfoGrade</listEntry>
 			<listEntry value="9">@Strings.ShowInfoAmbientPressure</listEntry>
-			
+
+			<listEntry value="12">@Strings.ShowInfoElapsedTime</listEntry>
+			<listEntry value="13">@Strings.ShowInfoTimer</listEntry>
 			<listEntry value="10">@Strings.ShowInfoTimeOfDay</listEntry>
 			<listEntry value="18">@Strings.ShowInfoTestfield</listEntry>							
         </settingConfig>
@@ -165,6 +175,8 @@
 			<listEntry value="6">@Strings.ShowInfoGrade</listEntry>
 			<listEntry value="9">@Strings.ShowInfoAmbientPressure</listEntry>
 			
+			<listEntry value="12">@Strings.ShowInfoElapsedTime</listEntry>
+			<listEntry value="13">@Strings.ShowInfoTimer</listEntry>
 			<listEntry value="10">@Strings.ShowInfoTimeOfDay</listEntry>
 			<listEntry value="18">@Strings.ShowInfoTestfield</listEntry>						
         </settingConfig>
