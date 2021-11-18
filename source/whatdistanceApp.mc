@@ -2,13 +2,15 @@ import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
 using WhatAppBase;
+
 class whatdistanceApp extends Application.AppBase {
-var whatApp = null as WhatAppBase.WhatApp;
+    var whatApp as WhatAppBase.WhatApp;
+
     function initialize() {
         AppBase.initialize();
         whatApp = new WhatAppBase.WhatApp();
-    var appName = Application.loadResource(Rez.Strings.AppName) as Lang.String;
-    whatApp.setAppName(appName);
+        var appName = Application.loadResource(Rez.Strings.AppName) as Lang.String;
+        whatApp.setAppName(appName);
     }
 
     // onStart() is called on application start up
