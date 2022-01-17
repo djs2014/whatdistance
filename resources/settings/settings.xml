@@ -181,6 +181,17 @@
 			<listEntry value="18">@Strings.ShowInfoTestfield</listEntry>						
         </settingConfig>
     </setting> 
+	
+	<setting propertyKey="@Properties.hitEnabled" title="@Strings.HitEnabled">
+		<settingConfig type="boolean" />
+	</setting> 
+	<setting propertyKey="@Properties.hitStartOnPerc" title="@Strings.HitStartOnPerc">
+		<settingConfig type="numeric"/>
+	</setting>	
+	<setting propertyKey="@Properties.hitStopOnPerc" title="@Strings.HitStopOnPerc">
+		<settingConfig type="numeric"/>
+	</setting>	
+
 	<setting propertyKey="@Properties.debug" title="@Strings.Debug">
 		<settingConfig type="boolean" />
 	</setting> 
@@ -193,4 +204,5 @@
 	<setting propertyKey="@Properties.testAltValue" title="@Strings.TestAltValue">
 		<settingConfig type="numeric"/>
 	</setting>	
+
 </settings>
