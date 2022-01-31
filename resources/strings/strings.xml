@@ -54,11 +54,14 @@
     <string id="ShowInfoLayoutMiddleCircle">Circle</string>
     <string id="ShowInfoLayoutMiddleTriangle">Triangle</string>
 
-    <string id="HitEnabled">Trigger HIT</string>    
-    <string id="HitStartOnPerc">Start HIT on % of FTP</string>    
-    <string id="HitStopOnPerc">Stop HIT on % of FTP</string>        
-
-    <string id="Debug">Debug</string>    
+    <string id="HitEnabled">Trigger HIIT</string>    
+    <string id="HitStartOnPerc">Start HIIT on % of FTP</string>    
+    <string id="HitStopOnPerc">Stop HIIT on % of FTP</string>        
+    <string id="HitSoundEnabled">HIIT warming up/cooling down beeps</string>    
+    <string id="HitStartCountDownSeconds">HIIT warming up seconds</string>    
+    <string id="HitStopCountDownSeconds">HIIT cooling down seconds</string>    
+    	
+	<string id="Debug">Debug</string>    
     <string id="TargetTestValue">Test target value</string>    
     <string id="TestValue">Test actual value</string>    
     <string id="TestAltValue">Test actual alt value</string>    

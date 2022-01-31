@@ -198,6 +198,16 @@
 		<settingConfig type="numeric"/>
 	</setting>	
 
+    <setting propertyKey="@Properties.hitSoundEnabled" title="@Strings.HitSoundEnabled">
+		<settingConfig type="boolean" />
+	</setting> 
+	<setting propertyKey="@Properties.hitStartCountDownSeconds" title="@Strings.HitStartCountDownSeconds">
+		<settingConfig type="numeric"/>
+	</setting>	
+	<setting propertyKey="@Properties.hitStopCountDownSeconds" title="@Strings.HitStopCountDownSeconds">
+		<settingConfig type="numeric"/>
+	</setting>	
+
 	<setting propertyKey="@Properties.debug" title="@Strings.Debug">
 		<settingConfig type="boolean" />
 	</setting> 
