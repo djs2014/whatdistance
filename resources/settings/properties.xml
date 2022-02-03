@@ -21,10 +21,10 @@
 	<property id="targetCadence" type="number">95</property>	
 	<property id="targetEnergyExpenditure" type="number">15</property>		
 
-	<property id="hitEnabled" type="boolean">true</property>			
+	<property id="hitMode" type="number">0</property>			
+	<property id="hitSound" type="number">2</property>	
 	<property id="hitStartOnPerc" type="number">150</property>		
 	<property id="hitStopOnPerc" type="number">100</property>	
-	<property id="hitSoundEnabled" type="boolean">false</property>	
 	<property id="hitStartCountDownSeconds" type="number">5</property>	
 	<property id="hitStopCountDownSeconds" type="number">10</property>	
 		

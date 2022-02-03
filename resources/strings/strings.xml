@@ -53,11 +53,22 @@
     <string id="ShowInfoLayoutPrompt">Select layout</string>
     <string id="ShowInfoLayoutMiddleCircle">Circle</string>
     <string id="ShowInfoLayoutMiddleTriangle">Triangle</string>
+    
+    <string id="HitMode">Trigger HIIT</string>
+    <string id="HitModePrompt">Select HITT mode</string>
+    <string id="HitModeDisabled">Disabled</string>
+    <string id="HitModeMinimal">Minimal</string>
+    <string id="HitModeNormal">Normal</string>
 
-    <string id="HitEnabled">Trigger HIIT</string>    
+    <string id="HitSound">HIIT sound</string>
+    <string id="HitSoundPrompt">Select HITT sound</string>
+    <string id="HitSoundNone">No sound</string>
+    <string id="HitSoundStart">Warmingup/Start only</string>
+    <string id="HitSoundLowNoise">Low noise</string>
+    <string id="HitSoundLoudNoise">Loud noise</string>
+
     <string id="HitStartOnPerc">Start HIIT on % of FTP</string>    
     <string id="HitStopOnPerc">Stop HIIT on % of FTP</string>        
-    <string id="HitSoundEnabled">HIIT warming up/cooling down beeps</string>    
     <string id="HitStartCountDownSeconds">HIIT warming up seconds</string>    
     <string id="HitStopCountDownSeconds">HIIT cooling down seconds</string>    
     	
