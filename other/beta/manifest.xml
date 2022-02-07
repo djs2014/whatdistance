@@ -5,7 +5,7 @@
         Use "Monkey C: Edit Application" from the Visual Studio Code command palette
         to update the application attributes.
     -->
-    <iq:application id="69c358e1-95a4-4bf0-86c4-90af1395cb33" type="datafield" name="@Strings.AppName" entry="whatdistanceApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.2.0" version="0.3.8">
+    <iq:application id="3c9ff8b8-3676-46f9-bc36-1ebc9876e83d" type="datafield" name="@Strings.AppNameBeta" entry="whatdistanceApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.2.0" version="0.3.8">
         <!--
             Use the following from the Visual Studio Code comand palette to edit
             the build targets:
@@ -25,9 +25,7 @@
             palette to update permissions.
         -->
         <iq:permissions>
-            <iq:uses-permission id="Background"/>
-            <iq:uses-permission id="Positioning"/>
-            <iq:uses-permission id="Sensor"/>
+            <iq:uses-permission id="Positioning"/>         
             <iq:uses-permission id="UserProfile"/>
         </iq:permissions>
         <!--
